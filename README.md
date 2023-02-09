@@ -4,7 +4,7 @@
     <h3 align="center">A passionate web fullstack developer from Colombia - Cali.</h3>
 </div>
 
-<div align="left">
+<div align="center">
     <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;   
