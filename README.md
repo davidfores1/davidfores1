@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am full stack developer
 - Skills: 
-  Angular, Ionic, Java, PHP, Javascript, HTML, CSS, bootstrap y ORACLE PL/SQL
+  Angular, Ionic, Flutter, Java, PHP, Javascript, HTML, CSS, Bootstrap y ORACLE PL/SQL
