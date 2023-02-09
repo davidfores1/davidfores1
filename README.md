@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am full stack developer
-- Angular, Ionic, Java, PHP, Javascript, HTML, CSS, bootstrap y ORACLE PL/SQL
+- Skills: 
+  Angular, Ionic, Java, PHP, Javascript, HTML, CSS, bootstrap y ORACLE PL/SQL
