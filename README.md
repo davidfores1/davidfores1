@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="[https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif](https://talently.tech/blog/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg)" width="200" />
     <h1 align="center">Hi 👋, I'm David Forero</h1>
     <h3 align="center">A passionate web fullstack developer from Colombia.</h3>
 </div>
